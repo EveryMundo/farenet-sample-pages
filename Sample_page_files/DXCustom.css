@@ -1,0 +1,497 @@
+.bread-crumb-container, .bread-crumb-component {
+    background: #4c806e;
+}
+
+.bread-crumb-component .steps-container ol > li {
+    text-shadow: none;
+}
+
+.bread-crumb-component .steps-container ol > li.current {
+    border-color: #fc8105;
+}
+
+.bread-crumb-component .steps-container ol > li.current:before {
+    background: #fc8105;
+    border: 0;
+    color: #fff;
+}
+
+.owd-calendar-container .calendar-cell[selected], .owd-calendar-container .calendar-cell[selected] a, .owd-calendar-container .calendar-cell[selected] .cell-divider, .owd-calendar-container .calendar-cell[selected] .inner-calendar-cell-bottom {
+    border-color: #fc8105;
+    color: #fc8105;
+}
+
+.owd-calendar-container .calendar-bottom-line {
+    background: transparent;
+}
+
+.tripsummary-section-itinerary .tripsummary-price-flight-text, .tripsummary-section-car .tripsummary-price-car-text, .tripsummary-section-price .tripsummary-price-total-text, .tripsummary-service-section .tripsummary-price-services-text {
+    color: #fc8105;
+}
+
+.trip-summary-total-cash-amount, .trip-summary-total-miles-amount {
+    color: #fc8105;
+}
+
+.payment .payment-wrapper .payment-price-total, .payment .method-of-guarantee .payment-price-total {
+    color: #fc8105;
+}
+
+.cell-reco-waitlist-text, .cell-reco-seats-text {
+    color: #fc8105;
+}
+
+.bound-table-cell-reco.selected .cell-reco-waitlist-text, .bound-table-cell-reco.selected .cell-reco-seats-text, .cell-reco-seats-text {
+    border-color: #fc8105;
+}
+
+.panel-primary > .panel-heading {
+    background-color: #cbaf81;
+    border-color: #cbaf81;
+}
+
+.icon-lowest:before {
+    color: #fc8105;
+}
+
+.icon-ok-sign:before {
+    color: #24A699;
+}
+
+a {
+    color: #4c806e;
+}
+
+a:hover, a:focus {
+    color: #189084;
+}
+
+a:focus, input:focus, select:focus, textarea:focus, button:focus, .availability-sorting-select .plnext-dropdown > button:focus {
+    outline-color: #24a699;
+}
+
+.btn-primary {
+    background-color: #24a699;
+    border-color: #24a699;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    background: #1f9388;
+    border-color: #189084;
+    outline-color: #189084;
+}
+
+.btn-tertiary {
+    color: #3f3f3f;
+}
+
+.underline-bar {
+    background: #1f9388;
+}
+
+.header-destination .icon-plane:before, .header-destination .icon-plane-return:before, .traveller-page-title .icon-main:before, .traveller-contact-information-title .icon-main:before, .catalogServices-page-title .icon-service:before, .servicesbreakdown-title .icon-service:before, .dialog-title .catalogServices-dialog-header-icon:before, .catalogServices-dialog-itinerary-header .icon-plane:before, .catalogServices-dialog-itinerary-header .icon-plane-return:before, .tripsummary-price-note-button .icon-info-sign:before, .tripsummary-btn .icon:before, .popover-heading .catalogServices-dialog-header-icon:before {
+    color: #4c806e;
+}
+
+.tripsummary-btn .icon-right:before {
+    color: #fff;
+}
+
+h3.catalogServices-teaser-title {
+    color: #4c806e;
+}
+
+.availability-bound .city-name {
+    color: #4c806e;
+}
+
+.slider-selection {
+    background-image: -webkit-linear-gradient(#cbaf81 0%, #cbaf81 100%);
+    background-image: -o-linear-gradient(#cbaf81 0%, #cbaf81 100%);
+    background-image: linear-gradient(#cbaf81 0%, #cbaf81 100%);
+}
+
+.slider-handle {
+    border-color: #cbaf81;
+}
+
+:not(#foo) input[type=checkbox] + label:before, :not(#foo) input[type=radio] + label:before {
+    color: #24a699;
+}
+
+.timeline-segment-line, .timeline-segment:hover > .timeline-segment-line.proposed, .timeline-segment:focus > .timeline-segment-line {
+    background: #cbaf81;
+}
+
+.timeline-segment:hover > .timeline-segment-stopduration, .timeline-segment:focus > .timeline-segment-stopduration {
+    background: #4c806e;
+}
+
+.timeline-segment-line:before, .timeline-segment-line:after {
+    color: #cbaf81;
+}
+
+.detailstooltip-date {
+    color: #fc8105;
+}
+
+.detailstooltip-terminal, .detailstooltip-locationfrom, .detailstooltip-locationto, .detailstooltip-location-techical-stop {
+    color: #4c806e;
+}
+
+.tripsummary-btn-selected, .tripsummary-btn-selected:focus {
+    border-color: #24a699;
+}
+
+.purchase-conditions-popup .btn-category-selected {
+    background-color: #24A699;
+    color: #fff;
+}
+
+.DPURCView .title-panel {
+    background: #cbaf81;
+}
+
+.DPURCView .title-panel .miles-panel {
+    color: #fff;
+}
+
+.teaser-switch .btn-group .btn.active {
+    border-color: #24a699;
+    color: #24a699;
+}
+
+.teaser-switch .btn-group .btn.active:after {
+    color: #24a699;
+}
+
+.pnrd-view h2.confirm-banner {
+    color: #fff;
+    background-color: #24A699;
+}
+
+h2.confirm-banner i {
+    color: #fff;
+}
+
+.envelope-text {
+    color: #4C806E;
+}
+
+.reservation-info .locator {
+    color: #FC8105;
+}
+
+/* header footer */
+#page-template-header, #main-layout-header, #main-layout-footer {
+    width: 100%;
+    margin: 0;
+    display: block;
+}
+
+.eva-header {
+    font-family: Arial;
+    font-size: 0.95em;
+    min-width: 75.385em;
+    margin: 0 auto;
+    position: relative;
+    height: 4.615em;
+}
+
+.eva-header .eva-left {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    overflow: hidden;
+}
+
+.eva-header .eva-left a {
+    display: block;
+    padding: 0.385em 2.692em;
+    line-height: 4.5em;
+}
+
+.eva-header .eva-left a {
+    display: block;
+}
+
+.eva-header .eva-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.eva-header .eva-right a {
+    text-decoration: none;
+    line-height: 4.65em;
+    padding: 0 2.5em;
+    display: inline-block;
+    color: #333333;
+}
+
+.eva-header .eva-right a.eva-home-link {
+    background: url(../img/client/home-icon.png) no-repeat 0.5em 1.4em;
+}
+
+.eva-header .eva-right a.eva-search-link {
+    background: url(../img/client/SearchIcon.png) no-repeat 0.5em 1.4em;
+}
+
+.eva-copyright {
+    font-family: Arial;
+    font-size: 0.813em;
+    text-align: center;
+    background: #4c806e;
+    color: #999;
+    padding-bottom: 2em;
+}
+
+.eva-copyright a {
+    padding: 2.769em 0;
+    padding-bottom: 0.769em;
+    display: block;
+}
+
+.eva-copyright p {
+    padding: 0.769em 0;
+    color: #fff;
+}
+
+.panel-small-padding.panel {
+    display: none;
+}
+
+.icon-calendar {
+    color: #24A699;
+}
+
+.slider-discrete-selection {
+    background-color: #4c806e;
+}
+
+.autocomplete-steps-label {
+    background-color: #24a699;
+    color: white;
+}
+
+.upsellteaser-placeholder.col-xs-20 {
+    width: 100%;
+}
+
+.upsellteaser-fixed-placeholder-button {
+    width: 100%;
+    text-align: right;
+    margin-bottom: 1.6em;
+}
+
+#searchbar-boundaries-locationsGroup, #searchbar-boundaries-travelersGroup {
+    display: none;
+}
+
+.icon-plane.fdct-depature-plane-icon, .icon-plane-return.fdct-return-plane-icon {
+    color: #4c806e;
+}
+
+.calendarPerBound-inner-cell.selected .fare-label {
+    background-color: #24a699;
+}
+
+.calendarPerBound-inner-cell.selected .calendarperbound-sign-ok-icon:before {
+    color: white;
+}
+
+.calendarPerBound-modifydates-btn {
+    color: white;
+    background-color: #3f3f3f;
+}
+
+.calendar-bound .city-name {
+    color: #4c806e;
+}
+.icon-seat-selected-alone:before{
+	display: block;
+	content:"";
+	background-color:#5D9554;
+	width: 18px;
+	height: 18px;
+	border-radius:0.2em;
+}
+.icon-seat-available:before{
+	display: block;
+	content:"";
+	background-color:#316C4D;
+	width: 18px;
+	height: 18px;
+	border-radius:0.2em;
+}
+.icon-seat-chargeable:before{
+	display: block;
+	content:"$";
+	background-color:#B87B0D;
+	width: 18px;
+	height: 18px;
+	border-radius:0.2em;
+	color:#ffffff;
+	line-height: 15px;
+	font-size: 15px;
+}
+.icon-seatmap-exit-right:before{
+	color:#CC0000;
+}
+.icon-seatmap-facility-galley:before,
+.icon-seatmap-facility-toilet:before,
+.icon-seatmap-facility-wheelchair:before{
+	color:#6A6A6A;
+}
+.uicSeatFacility, .uicZoneFacility{
+	background-color:#C2C2C2;
+}
+.travellerBox{
+	background-color:#CBAF81;
+}
+.seatInfoPopup{
+	background-color:#7F7F7F;
+}
+.uicCabin [data-seat-selected='true']:before, .uicCabin [data-seat-selected='true']:hover:before{
+	background-color:#5D9554;
+	border:1px solid #000;
+	content:"";
+}
+.seatMapContainer[paxn="paxN1"] .paxN1:before,
+.seatMapContainer[paxn="paxN2"] .paxN2:before,
+.seatMapContainer[paxn="paxN3"] .paxN3:before,
+.seatMapContainer[paxn="paxN4"] .paxN4:before,
+.seatMapContainer[paxn="paxN5"] .paxN5:before,
+.seatMapContainer[paxn="paxN6"] .paxN6:before,
+.seatMapContainer[paxn="paxN7"] .paxN7:before,
+.seatMapContainer[paxn="paxN8"] .paxN8:before,
+.seatMapContainer[paxn="paxN9"] .paxN9:before{
+	background-color:#5D9554;
+	border:1px solid #000;
+	content:"";
+}
+.travellerBox .seatPax:after,
+.travellerBox .seatPax.selected-pax:after{
+	color:#5D9554;
+}
+.upsellteaser-placeholder.col-xs-20{
+	position: relative;	
+	padding: 0;
+}
+.upsellteaser-placeholder.col-xs-20 .col-xs-20{
+	padding: 0;
+}
+.section1.col-xs-12{
+	padding: 0;
+}
+.upsellteaser-placeholder.col-xs-20 .col-xs-24{
+	position: absolute;
+	top: 0.5em;
+	right: -2em;
+}
+.services-table-cell-content.selected{
+	color:#202020;
+}
+body{
+	font-family:"Arial","微軟正黑體", "Microsoft JhengHei", "新細明體", "PMingLiU", sans-serif,Calibri;
+}
+.total-price abbr[title],
+.timetothink-currency,
+.timetothink-amount,
+.timetothink-message-currency,
+.timetothink-message-amount,
+.tripsummary-price-amount-currency,
+.tripsummary-price-amount-text,
+.tripsummary-price-amount-text-small,
+span.timetothink-status,
+.time-to-think-confirmation span.date-range {
+	color:#FC8105;
+}
+@media only screen and (min-width:600px) and (max-width:991px) {
+    .eva-header {
+        width: 100%;
+        min-width: 0;
+    }
+
+}
+
+@media screen and (orientation:portrait), (max-width:930px) and (orientation:landscape) {
+    .eva-header {
+        width: 100%;
+        min-width: 0;
+    }
+
+    .eva-copyright img {
+        max-width: 90%;
+    }
+
+    .page-header h1 {
+        font-size: 1.875em;
+    }
+
+}
+
+@media only screen and (max-width:500px) {
+    .eva-header .eva-left a {
+        width: 80%;
+        padding: 0.385em 1.692em;
+    }
+
+    .eva-header .eva-left img {
+        width: 100%;
+    }
+
+    .eva-header .eva-right {
+        padding: 0 0.692em 0 1.692em;
+    }
+
+    .eva-header .eva-right a {
+        display: none;
+    }
+
+    .eva-header .eva-right a.eva-home-link, .eva-header .eva-right a.eva-search-link {
+        background-position-y: 1.8em;
+    }
+
+    .plnext-accordion-header {
+        background-color: #24A699;
+    }
+	.timetothink-teaser, .timetothink-info{
+		display:block;
+		width:100%;
+	}
+	.timetothink-teaser{
+		min-height: 200px;
+	}
+}
+
+@media all and (max-width:700px) {
+    .availability-upsellTeaser .upsellteaser-dynamic-placeholder .picture.upsellteaser-picture img {
+        width: 100%;
+        height: 175px;
+        margin-bottom: 2%;
+        margin-top: 2%;
+    }
+
+}
+
+@media screen and (orientation:portrait) and (max-width:768px) {
+    .col-xs-20 {
+        width: 100%;
+    }
+
+    .upsellteaser-fixed-placeholder-button {
+        width: 100%;
+        margin-top: 2%;
+    }
+
+}
+
+@media screen and (max-width:767px) {
+    .calendarPerBound-inner-cell.selected .fare-label {
+        background-color: #24a699;
+    }
+
+}
